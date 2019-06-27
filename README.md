@@ -1,2 +1,5 @@
-# drumkit-app
+# Drumkit-app
+```
 app to play drumkit instrument
+
+```
