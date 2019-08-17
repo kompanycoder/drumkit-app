@@ -1,5 +1,7 @@
 # drumkit-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kompanycoder/drumkit-app.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 npm install
